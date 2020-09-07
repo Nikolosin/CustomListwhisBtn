@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CustomListwhisBtn</string>
+    <string name="calculator">Calculator</string>
+    <string name="calculator2">Интерфейс калькулятора</string>
+    <string name="check">Checkbox</string>
+    <string name="check2">Взаимоисключающие CheckBox</string>
+    <string name="color">Color</string>
+    <string name="color2">Переключение цветов в приложении</string>
+    <string name="list">ListView</string>
+    <string name="list2">Отображение ListView</string>
+    <string name="del">удалить</string>
+</resources>
